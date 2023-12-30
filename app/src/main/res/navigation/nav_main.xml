@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_main"
+    app:startDestination="@id/HomeFragment">
+
+    <fragment
+        android:id="@+id/HomeFragment"
+        android:name="com.example.whetherapp.fragments.HomeFragment"
+        android:label="fragment_first"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/SettingsFragment"
+        android:name="com.example.whetherapp.fragments.SettingsFragment"
+        android:label="fragment_second"
+        tools:layout="@layout/fragment_settings" />
+
+<!--    <fragment
+        android:id="@+id/thirdFragment"
+        android:name="com.ezatpanah.bottomnavigation_toutube.ThirdFragment"
+        android:label="fragment_third"
+        tools:layout="@layout/fragment_third" />&ndash;&gt;-->
+
+</navigation>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "207637121250",
+    "project_id": "wheaterapp-e093b",
+    "storage_bucket": "wheaterapp-e093b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207637121250:android:8c5dc9832551b84d58b6bb",
+        "android_client_info": {
+          "package_name": "com.example.whetherapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207637121250-d1nb2hi2c3qspi7h8ib59c9jra84o7qn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0OWCBrm6Mju3h9SeaeSH-bqPTfrgjoao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207637121250-d1nb2hi2c3qspi7h8ib59c9jra84o7qn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

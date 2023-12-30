@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@color/blue"/>
+
+
+    <!--<item
+        android:left="10dp"
+        android:right="10dp"
+        android:top="250dp"
+        android:bottom="260dp">
+
+        <bitmap android:="@drawable/planet_earth_icon"/>
+
+    </item>-->
+
+    <item android:drawable="@drawable/planet_earth_icon"
+        android:left="10dp"
+        android:right="10dp"
+        android:top="150dp"
+        android:bottom="150dp" />
+
+
+</layer-list>
